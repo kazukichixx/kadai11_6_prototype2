@@ -1,0 +1,18 @@
+/* screen - u12459u12513u12521u12471u12519u12483u12488-1 */
+
+.u12459u12513u12521u12471u12519u12483u12488-1 {
+  align-items: flex-start;
+  background-color: var(--bon-jour);
+  display: flex;
+  height: 249px;
+  padding: 19px 37px;
+  width: 211px;
+}
+
+.u12459u12513u12521u12471u12519u12483u12488-1 .image-2 {
+  cursor: pointer;
+  height: 210px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 137px;
+}

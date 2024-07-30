@@ -1,0 +1,47 @@
+:root { 
+  --alto: #d9d9d9;
+  --black: #000000;
+  --bon-jour: #e2dede;
+  --monte-carlo: #7cced3;
+  --sahara-sand: #f1ed8a;
+  --white: #ffffff;
+ 
+  --font-size-m: 18px;
+  --font-size-s: 14px;
+  --font-size-xs: 13px;
+  --font-size-xxs: 10px;
+  --font-size-xxxs: 8px;
+ 
+  --font-family-rubik_moonrocks: "Rubik Moonrocks", Helvetica;
+}
+.rubikmoonrocks-normal-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-rubik_moonrocks);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.rubikmoonrocks-normal-black-13px {
+  color: var(--black);
+  font-family: var(--font-family-rubik_moonrocks);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.rubikmoonrocks-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-rubik_moonrocks);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.rubikmoonrocks-normal-black-8px {
+  color: var(--black);
+  font-family: var(--font-family-rubik_moonrocks);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}

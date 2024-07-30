@@ -1,0 +1,65 @@
+/* screen - u9312u21021u21205u30011u38754 */
+
+.u9312u21021u21205u30011u38754 {
+  align-items: flex-start;
+  background-color: var(--bon-jour);
+  display: flex;
+  height: 262px;
+  padding: 10px 0;
+  width: 211px;
+}
+
+.u9312u21021u21205u30011u38754 .overlap-group {
+  height: 239px;
+  margin-left: 8px;
+  margin-top: 3px;
+  position: relative;
+  width: 203px;
+}
+
+.u9312u21021u21205u30011u38754 .image-1 {
+  height: 221px;
+  left: 10px;
+  top: 18px;
+  width: 160px;
+}
+
+.u9312u21021u21205u30011u38754 .image-2 {
+  height: 22px;
+  left: 69px;
+  top: 67px;
+  width: 41px;
+}
+
+.u9312u21021u21205u30011u38754 .the-north-cheker {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 203px;
+}
+
+.u9312u21021u21205u30011u38754 .rectangle-6 {
+  height: 28px;
+  left: 70px;
+  position: absolute;
+  top: 204px;
+  width: 80px;
+}
+
+.u9312u21021u21205u30011u38754 .place {
+  cursor: pointer;
+  left: 79px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 208px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.u9312u21021u21205u30011u38754 .image {
+  object-fit: cover;
+  position: absolute;
+}

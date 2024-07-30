@@ -1,0 +1,46 @@
+/* screen - u9317u37969u23450u20013 */
+
+.u9317u37969u23450u20013 {
+  align-items: flex-end;
+  background-color: var(--bon-jour);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 249px;
+  padding: 80px 18px;
+  width: 211px;
+}
+
+.u9317u37969u23450u20013 .overlap-group {
+  align-self: center;
+  background-color: var(--monte-carlo);
+  height: 28px;
+  margin-top: 30px;
+  min-width: 121px;
+  padding: 3px 5px;
+}
+
+.u9317u37969u23450u20013 .in-progress {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.u9317u37969u23450u20013 .overlap-group1 {
+  background-color: #8af1b3;
+  height: 25px;
+  min-width: 169px;
+  padding: 4.6px 13px;
+}
+
+.u9317u37969u23450u20013 .arrow-1 {
+  height: 15px;
+  width: 125px;
+}
+
+.u9317u37969u23450u20013 .overlap {
+  align-items: flex-start;
+  display: flex;
+}

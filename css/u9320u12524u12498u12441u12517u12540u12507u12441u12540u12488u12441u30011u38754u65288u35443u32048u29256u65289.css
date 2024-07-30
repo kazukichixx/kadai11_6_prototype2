@@ -1,0 +1,105 @@
+/* screen - u9320u12524u12498u12441u12517u12540u12507u12441u12540u12488u12441u30011u38754u65288u35443u32048u29256u65289 */
+
+.u9320u12524u12498u12441u12517u12540u12507u12441u12540u12488u12441u30011u38754u65288u35443u32048u29256u65289 {
+  align-items: flex-start;
+  background-color: var(--bon-jour);
+  display: flex;
+  height: 262px;
+  padding: 0 16px;
+  width: 211px;
+}
+
+.u9320u12524u12498u12441u12517u12540u12507u12441u12540u12488u12441u30011u38754u65288u35443u32048u29256u65289 .frame-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 218px;
+  margin-top: 22px;
+  overflow: hidden;
+  width: 178px;
+}
+
+.u9320u12524u12498u12441u12517u12540u12507u12441u12540u12488u12441u30011u38754u65288u35443u32048u29256u65289 .rectangle-1 {
+  height: 69px;
+  margin-left: -446px;
+  margin-top: -1723px;
+  width: 62px;
+}
+
+.u9320u12524u12498u12441u12517u12540u12507u12441u12540u12488u12441u30011u38754u65288u35443u32048u29256u65289 .review-board {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 1661px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.u9320u12524u12498u12441u12517u12540u12507u12441u12540u12488u12441u30011u38754u65288u35443u32048u29256u65289 .flex-row {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 18px;
+  margin-left: 1.0px;
+  margin-top: 15px;
+  min-width: 165px;
+}
+
+.u9320u12524u12498u12441u12517u12540u12507u12441u12540u12488u12441u30011u38754u65288u35443u32048u29256u65289 .image-1 {
+  height: 43px;
+  object-fit: cover;
+  width: 44px;
+}
+
+.u9320u12524u12498u12441u12517u12540u12507u12441u12540u12488u12441u30011u38754u65288u35443u32048u29256u65289 .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border: 1px solid;
+  border-color: var(--black);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 134px;
+  min-width: 103px;
+  padding: 0 7.5px;
+}
+
+.u9320u12524u12498u12441u12517u12540u12507u12441u12540u12488u12441u30011u38754u65288u35443u32048u29256u65289 .overlap-group3 {
+  align-items: flex-start;
+  background-image: url(../img/star-15.svg);
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 18px;
+}
+
+.u9320u12524u12498u12441u12517u12540u12507u12441u12540u12488u12441u30011u38754u65288u35443u32048u29256u65289 .star-9 {
+  height: 15px;
+  width: 18px;
+}
+
+.u9320u12524u12498u12441u12517u12540u12507u12441u12540u12488u12441u30011u38754u65288u35443u32048u29256u65289 .overlap-group {
+  align-self: center;
+  height: 24px;
+  margin-right: 3.0px;
+  margin-top: 7px;
+  position: relative;
+  width: 63px;
+}
+
+.u9320u12524u12498u12441u12517u12540u12507u12441u12540u12488u12441u30011u38754u65288u35443u32048u29256u65289 .rectangle-8 {
+  background-color: var(--bon-jour);
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 63px;
+}
+
+.u9320u12524u12498u12441u12517u12540u12507u12441u12540u12488u12441u30011u38754u65288u35443u32048u29256u65289 .place {
+  cursor: pointer;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}

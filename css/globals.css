@@ -1,0 +1,71 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Rubik+Moonrocks:400");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/66a5145c6c23c4e987df6e3a.66a5145d6c23c4e987df6e3d.iNrDims.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.frame-container {
+  margin-top: 6px;
+  position: relative;
+}
+
+.star-container {
+  height: 15px;
+  margin-left: 1px;
+  position: relative;
+  width: 32px;
+}
+
+.star-10 {
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.star-11 {
+  height: 15px;
+  left: 14px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.star-12 {
+  height: 15px;
+  margin-top: -1px;
+  width: 18px;
+}
+
+.serial-number {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 135px;
+}
